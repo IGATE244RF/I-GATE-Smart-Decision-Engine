@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "I-GATE Reproducible Decision Engine"
+version: "1.7.0"
+message: "If you use this software, please cite the accompanying manuscript."
+authors:
+  - family-names: "Faridnia"
+    given-names: "Rashid"
+  - family-names: "Zarei"
+    given-names: "Azim"
+  - family-names: "Shafiei Nikabadi"
+    given-names: "Mohsen"
+  - family-names: "Ebrahimi"
+    given-names: "Seyed Abbas"
+repository-code: "https://github.com/IGATE244RF/I-GATE-Reproducible-Decision-Engine"
+license: "MIT"

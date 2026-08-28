@@ -1,0 +1,34 @@
+{
+  "title": "I-GATE Reproducible Decision Engine v1.7",
+  "description": "Reproducible computational demonstration accompanying the revised manuscript System Dynamics and Deep Learning Driven Optimization of New Product Development Lifecycle.",
+  "creators": [
+    {
+      "name": "Faridnia, Rashid"
+    },
+    {
+      "name": "Zarei, Azim"
+    },
+    {
+      "name": "Shafiei Nikabadi, Mohsen"
+    },
+    {
+      "name": "Ebrahimi, Seyed Abbas"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "I-GATE",
+    "System Dynamics",
+    "Deep Learning",
+    "Stage-Gate",
+    "Optimal Control",
+    "New Product Development"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/IGATE244RF/I-GATE-Reproducible-Decision-Engine",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    }
+  ]
+}
